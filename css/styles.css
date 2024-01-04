@@ -14,10 +14,32 @@ a{
     text-decoration:none !important;
     color: #000 !important;
 }
-
+.container{
+    overflow:  hidden !important;
+}
 
 /* header start */
-
-
+.header-main {
+    position:relative;
+}
+.mount{
+    position:absolute;
+    bottom:-20px;
+    z-index: -1;
+}
 
 /* header end */
+
+/* work-item start */
+.work-item{
+    background-color:#FFFFFF;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.line{
+    background-color:#F9BC6E;
+    width: 89px;
+    height: 3px;
+}
+
+/* work-item end */
