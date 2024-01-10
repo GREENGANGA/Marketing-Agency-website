@@ -28,7 +28,17 @@ a{
     z-index: -1;
 }
 
+
 /* header end */
+
+/* footer start */
+.footer-main{
+    background-color:#F9BC6E;
+    color:#000000;
+}
+
+
+/* footer end  */
 
 /* work-item start */
 .work-item{
