@@ -125,11 +125,22 @@ a{
 
 .tetimonials{
     background-color: #fff;
+    margin: auto!important;
+    padding:auto!important;
 }
 .tet-box-1{
+    position: relative;
     background-color: #F9BC6E;
-    width: 100%;
-    height: 100%;
+    width: 5px;
+    height: 200px; 
+}
+.img-q{
+    position: absolute;
+    bottom: -30px;
+    left: 45px;
+}
+.a-hov:hover{
+    color: #F9BC6E !important;
 }
 
 /* tetimonials end */
