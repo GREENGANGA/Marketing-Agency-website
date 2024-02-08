@@ -145,6 +145,44 @@ a{
 
 /* tetimonials end */
 
+/* article-section start */
+
+.article-section{
+    background-color: #F9BC6E;
+}
+.article-box{
+    background-color: #DFA762;
+    color:#fff;
+}
+.w-button{
+    background-color: #fff;
+    padding:10px;
+}
+.w-button:hover{
+    background-color: #fff;
+    padding:10px;
+    color: #F9BC6E !important;
+}
+/* article-section end */
+
+/* section-meetings start */
+
+.section-meetings{
+    background-color: #fff;
+}
+.y-button{
+    background-color: #F9BC6E;
+    padding: 10px;
+    color: #fff !important;
+}
+.y-button:hover{
+    background-color: #F9BC6E;
+    padding: 10px;
+    color: #000 !important;
+}
+
+/* section-meetings end */
+
 /* footer start */
 .footer-main{
     background-color:#F9BC6E;
