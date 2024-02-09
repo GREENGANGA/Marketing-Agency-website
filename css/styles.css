@@ -194,3 +194,23 @@ a{
 }
 
 /* footer end  */
+
+/* blog page edit start */
+
+/* b-main start */
+
+.b-main{
+    position: relative;
+    padding: 300px auto !important;
+}
+.b1-main{
+    position: absolute;
+    top: 40%;
+    z-index: -1;
+}
+.b-p{
+    padding: 150px
+}
+
+
+/* b-main end */
